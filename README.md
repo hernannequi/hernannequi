@@ -6,7 +6,10 @@
 
 <h3>Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/david-hernan-nequi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-hernan-nequi/" height="30" width="40" /></a>
+   <a href="mailto:https://davidhernannequi@gmail.com" target="blank"> <img src="https://static.vecteezy.com/system/resources/thumbnails/021/514/701/small/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" height="40" width="40" /></a>
+</p>
+<p>
+<a href="https://linkedin.com/in/david-hernan-nequi/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-hernan-nequi/" height="30" width="40" /></a>
 </p>
 
 <h3>Languages and Tools:</h3>
