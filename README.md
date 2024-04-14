@@ -1,13 +1,10 @@
 <div id="header" align="center">
-  <img src="https://lh3.googleusercontent.com/pw/AJFCJaVBjskFBVc-IU8ydHc1-aFSvX9w-z5GFizMKLzf5PKAr_k42Rchmvp1gIc3C9bJE66GwsZCD--VL4edIgFSuAcA7vArwU3ExM3GAoZOh3OqFtS_f1ls947jSpP3jk8V5whNVPz3nH0oy8SvQrSaymXzF9yfiTGx-Za9i7XRQEPYWqsNXmPQAEWwXB7QXzf3Zr3XvOMqEJuDIxiat_6O5jEJFuNreTfJcvmzQ5v4jufScyOZ88Xzr6TywxPdceU0GaV6o-dP_id18rBbDBsjXxcAhTQ1RJK-6qqK_g87fXgfSnRgQXSNtbov38jtsl5WD0wc0U_oEMoQdjSDIdlke1Epz4fH3DlcADzb6Z70w3l5DgnFoeQVajUSkYK6yYJzQ6bBYe3PYbSqMqqAq9fKym1Bucs6VbubFuiM0eAJcdiEDytWqOQaCWMS97-WJvibzAu2Lq_Eo2nsgYAc5nIUYi9lxVGMStQ7sPaPfo6_zWdZBAuGBkup_a-MzUDwXkdKLjs3m9bX4tYDK6ZedVuI4018U3ZJl0dGCXkzIo0QN0wbawv2usbklcRVEm75Ss5JUD4WLKbIWpkhboAN7h182jPPzi8dcG1W159FknXBvmja8KjeejjszgdyX87kSSpERUqFgtk1tIiT5qWm9YO5EUnN5CxP3YqUU4BlfyMmrhCDl15a4lYystTR_ORwsdEkdwtVBNF8nGtqXFVjT2UYU95sHGZsiYhDAwaUd3Q2Y7BgLVwZBu1f463d_uKJi4WKVMbqSwF3TRwilpbvHpFeW7dZXCXCQwMU_j8NIkeWtmXQdD35ACEQMleQta8Tn1NnjrIYNroAarOQPEGUhlyuAPl4SEid-aNA-7uQKOtEQW3jlAZAarVBDdvgw4nsykCzbbzd5X96SQ_7HXNVoyLPNyQ=w433-h577-s-no?authuser=0" width="200" />
+  <img src="https://keepcoding.io/wp-content/uploads/2023/11/image-73.png" width="200" />
  
   <h1>Hi 👋, I'm Hernan</h1>
 <h3>A passionate software developer from Argentina</h3>
 
 <h3>Connect with me:</h3>
-<p>
-   <a href="mailto:https://davidhernannequi@gmail.com" target="blank"> <img src="https://static.vecteezy.com/system/resources/thumbnails/021/514/701/small/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" height="40" width="40" /></a>
-</p>
 <p>
 <a href="https://linkedin.com/in/david-hernan-nequi/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-hernan-nequi/" height="30" width="40" /></a>
 </p>
