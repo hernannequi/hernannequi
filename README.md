@@ -1,5 +1,5 @@
 # Quien Soy
-Hola 👋, soy Hernan me considero por ser proactivo, metódico y apasionado por compartir conocimiento. Soy desarrollador autodidacta con una sólida base en ingeniería y diseño de software. Me encuentro especializándome en tecnologías vinculadas al entorno de Microsoft .NET: C#, .NET Framework, ASP.NET, y SQL Server. He realizado proyectos en diversas áreas de desarrollo de aplicaciones de escritorio y web, con un enfoque en arquitectura en capas, POO y diseño de bases de datos relacionales.
+Hola 👋, soy Hernan. Me considero por ser proactivo, metódico y apasionado por compartir conocimiento. Soy desarrollador autodidacta con una sólida base en ingeniería y diseño de software. Me encuentro especializándome en tecnologías vinculadas al entorno de Microsoft .NET: C#, .NET Framework, ASP.NET, y SQL Server. He realizado proyectos en diversas áreas de desarrollo de aplicaciones de escritorio y web, con un enfoque en arquitectura en capas, POO y diseño de bases de datos relacionales.
 
 ---
 # Mi experiencia
