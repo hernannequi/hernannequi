@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/her_dotnet/)
 
 
-# Quien Soy
+# Sobre mí
 Me considero un desarrollador autodidacta, paciente, curioso y proactivo.
 
 Disfruto compartir mis conocimientos y aprender de la expericias de los demas. 
