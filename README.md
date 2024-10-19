@@ -4,7 +4,7 @@ Hola 👋, soy Hernan. Me considero proactivo, metódico y un desarrollador apas
 ---
 # Mi experiencia
 - Fundamentos de programación y algoritmos, estructuras de control.Apps de escritorio con Winforms, aplicando POO avanzada (herencia, polimorfismo, interfaces), gestión de excepciones, y acceso a bases de datos.  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 - Desarrollo de aplicaciones web con integración de frontend (HTML, CSS, Bootstrap, JavaScript), manejo de eventos, validaciones y gestión de sesiones.
 
