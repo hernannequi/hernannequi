@@ -1,6 +1,5 @@
 # <img src="https://media.giphy.com/media/j0RqBdOYVkzJJzJDoo/giphy.gif" width="50"/> Hola 👋 soy Hernan
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-hernan-nequi/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/her_dotnet/)
 
 
 # Sobre mí
