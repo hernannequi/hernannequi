@@ -18,7 +18,6 @@ Estoy interesado en seguir aprendiendo sobre producto, ingeniería y diseño de 
 ------------------------------------------
 
 - Diseño de bases relacionales, consultas SQL (select, join, procedimientos almacenados), normalización, y manejo avanzado de transacciones y triggers en SQL Server.
-
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernannequi&layout=compact) -->
